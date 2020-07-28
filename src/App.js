@@ -40,11 +40,8 @@ function App() {
       <Carousel
         category={dadosInciais.categorias[5]}
       />
-
       <Footer
-      
       />
-
     </div>
   );
 }
