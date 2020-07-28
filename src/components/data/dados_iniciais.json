@@ -1,183 +1,191 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Cultos Ao Vivo",
+      "link": "https://www.youtube.com/c/Na%C3%A7%C3%A3odosMontes/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Assista aqui todos os cultos ao vivo",
+        "url": "https://www.youtube.com/playlist?list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Nação Dos Montes",
+          "url": "https://www.youtube.com/watch?v=iRfp_ABe7U8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Sonhos gerados pelo Espírito",
+          "url": "https://www.youtube.com/watch?v=1ngqh7WwoJ8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A força motriz",
+          "url": "https://www.youtube.com/watch?v=N7yboYZP98Q"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "A roda",
+          "url": "https://www.youtube.com/watch?v=VzTJdzwI5-0&list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD&index=2&t=1292s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Aprender a esperar",
+          "url": "https://www.youtube.com/watch?v=s9ni664WmD0&list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD&index=3&t=1156s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O servo escolhido",
+          "url": "https://www.youtube.com/watch?v=sCcwlxh71cc&list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD&index=4&t=353s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Na contramão do mundo",
+          "url": "https://www.youtube.com/watch?v=KTjB1XBBWhg&list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD&index=5&t=17s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Antes da Fundação do Mundo",
+          "url": "https://www.youtube.com/watch?v=OdJbW6RvB_0&list=PLFrlqT7ZDvufByq4ypce0MfTmZEdhp-RD&index=6&t=0s"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Cultos Infantis",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Assista aqui todos os culto infantis",
+        "url": "https://www.youtube.com/playlist?list=PLFrlqT7ZDvuflg3RiOYXnOXyC3NbsUNqo"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Você sabe vestir a armadura de Deus?",
+          "url": "https://www.youtube.com/watch?v=RDXKjLo3_aU&t=869s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Você quer Aprender um pouco mais sobre a Bíblia?",
+          "url": "https://www.youtube.com/watch?v=C51oNN350gY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Frutos do Espírito",
+          "url": "https://www.youtube.com/watch?v=cC02fmjmw9c&t=1s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "A oração me liga ao céu",
+          "url": "https://www.youtube.com/watch?v=N17B0uyw0KA&t=1145s"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "A Alegria de Estar no Espírito Santo",
+          "url": "https://www.youtube.com/watch?v=r3r2_1tOGPw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Teatros",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Assista aqui todos os teatros já feitos nas nossas igrejas",
+        "url": "https://www.youtube.com/playlist?list=PLFrlqT7ZDvueUl6v0nFyzjY9LJ2tv74V5"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Estação 537",
+          "url": "https://www.youtube.com/watch?v=8oUcJf6EE00&list=PLFrlqT7ZDvueUl6v0nFyzjY9LJ2tv74V5&index=2&t=4s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Um hóspede especial",
+          "url": "https://www.youtube.com/watch?v=pX_UfQGmtog&list=PLFrlqT7ZDvueUl6v0nFyzjY9LJ2tv74V5&index=3&t=0s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Luz",
+          "url": "https://www.youtube.com/watch?v=vTtIrz_Vb6k&list=PLFrlqT7ZDvueUl6v0nFyzjY9LJ2tv74V5&index=4&t=0s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Um chef em minha vida",
+          "url": "https://www.youtube.com/watch?v=IPBWnKHAOpI&list=PLFrlqT7ZDvueUl6v0nFyzjY9LJ2tv74V5&index=6&t=0s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Louvor e Adoração",
+      "cor": "#f55a00",
+      "link_extra": {
+        "text": "Assista aqui nossos momentos de louver e adoração",
+        "url": "https://www.youtube.com/playlist?list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv"
+      },
+      "videos": [
+        {
+          "titulo": "Tudo Entregarei",
+          "url": "https://www.youtube.com/watch?v=icX5UsF0N0w&list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv&index=2&t=0s"
+        },
+        {
+          "titulo": "Tua Glória",
+          "url": "https://www.youtube.com/watch?v=9OS8cubtfrI&list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv&index=3&t=0s"
+        },
+        {
+          "titulo": "Te agradeço",
+          "url": "https://www.youtube.com/watch?v=Y5P018eQnRc&list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv&index=5&t=10s"
+        },
+        {
+          "titulo": "Confio em Ti",
+          "url": "https://www.youtube.com/watch?v=j9R7mmbVpQA&list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv&index=4&t=0s"
+        },
+        {
+          "titulo": "Em tua presença",
+          "url": "https://www.youtube.com/watch?v=XMsKmw9cBLY&list=PLFrlqT7ZDvucqD0mVrB8p53ACIObedRUv&index=6&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Clipes",
       "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      "link_extra":{
+          "text": "Assista aqui alguns clipes que produzimos",
+          "url": "https://www.youtube.com/playlist?list=PLFrlqT7ZDvud4xtpguwb8jZ190ferc7uZ"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Cadeias Quebrar",
+          "url": "https://www.youtube.com/watch?v=DOMxkmsBse0&list=PLFrlqT7ZDvud4xtpguwb8jZ190ferc7uZ&index=2&t=0s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Vejo uma voz",
+          "url": "https://www.youtube.com/watch?v=_GZag68gJ0k&list=PLFrlqT7ZDvud4xtpguwb8jZ190ferc7uZ&index=3&t=0s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "1 Coríntios 13",
+          "url": "https://www.youtube.com/watch?v=iRfp_ABe7U8&list=PLFrlqT7ZDvud4xtpguwb8jZ190ferc7uZ&index=4&t=0s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Séries e Ensinos Bíblicos",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Estudo de Apocalipse",
+          "url": "https://www.youtube.com/watch?v=FPEVCrZv76c&list=PLFrlqT7ZDvueT7olIIfxZ6cwAUQizC19K"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Fundamentos",
+          "url": "https://www.youtube.com/watch?v=dLqcASeSVN4&list=PLFrlqT7ZDvufMiHVZW3Zs20ozkD5OUxPs"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Espírito Santo",
+          "url": "https://www.youtube.com/watch?v=iilnWRklLHs&list=PLFrlqT7ZDvufClulWMu-rSIPJQs0N5Wl4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Conhecendo a Deus",
+          "url": "https://www.youtube.com/watch?v=at72-JzLrg0&list=PLFrlqT7ZDvucEinP5aVlK4G69gFmVH-oH"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Princípios",
+          "url": "https://www.youtube.com/watch?v=FY80GOoXiQg&list=PLFrlqT7ZDvuejgaxR04RJxy8JxrR9Uc7f"
+        },
+        {
+          "titulo": "Processo de Mudança",
+          "url": "https://www.youtube.com/watch?v=VGssbeZWkPA&list=PLFrlqT7ZDvufGCZ7xmD0zmyE_W0sBXDY3"
+        },
+        {
+          "titulo": "Fazei Discípulos",
+          "url": "https://www.youtube.com/watch?v=YGsMfPUNB3Q&list=PLFrlqT7ZDvucbd8VTcHeRcRukkchILh1f"
+        },
+        {
+          "titulo": "Oração e Intercessão",
+          "url": "https://www.youtube.com/watch?v=n02LUSyUveY&list=PLFrlqT7ZDvucoYj2OTzhZqP4SZ3d6MVcX"
         }
       ]
     }
